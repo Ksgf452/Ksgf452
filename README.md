@@ -54,28 +54,25 @@
 ## 🎯 接下来想做的事
 
 - [ ] 把 ESP32 小车加上传感器，从「能跑」变成「能自己跑」
-- [ ] 把博客的代码整理开源出来
 - [ ] 补一补 C 语言和数据结构的基本功
-- [x] 建好这个个人主页仓库（你现在看到的就是它）
 
 ## 📊 GitHub 数据
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ksgf452&show_icons=true&locale=cn&hide_border=true&theme=default" alt="GitHub 统计" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ksgf452&layout=compact&locale=cn&hide_border=true&theme=default" alt="常用语言" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=Ksgf452&show_icons=true&locale=cn&hide_border=true&theme=default&cache_seconds=21600" alt="GitHub 统计" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ksgf452&layout=compact&locale=cn&hide_border=true&theme=default&cache_seconds=21600" alt="常用语言" />
 
 </div>
 
 ## 📫 找到我
 
 - 🌐 个人网站：**[ksgf452.top](https://ksgf452.top/)**
-- 🐙 GitHub：**[@Ksgf452](https://github.com/Ksgf452)**
 - 💌 想交流的话，直接在项目里提 Issue 就好
 
 <div align="center">
 
-<p><strong>「目前会用 AI 写一些没用的东西」—— 但谁规定没用的东西不能好玩呢？</strong></p>
+<p><strong>「目前只会用 AI 写一些没用的东西」</strong></p>
 
 <p>⭐️ 谢谢你路过这里，也欢迎看看我的<a href="https://ksgf452.top/photos">相册</a></p>
 
